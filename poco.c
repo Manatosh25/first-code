@@ -14,3 +14,4 @@ int main(){
     printf("the  points are not in same line");
 return 0;
 }
+int main()
